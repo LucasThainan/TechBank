@@ -1,8 +1,8 @@
-#TechBank
+# TechBank
 Projeto em Portugol 1º semestre - UniFTC
 
-#Desc
+# Desc
 Aplicação bancária em Portugol com CRUD de contas e funcionalidades bancárias de saldo e pagamentos
 
-#Tecnologias
+# Tecnologias
 Portugol
